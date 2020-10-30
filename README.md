@@ -6,3 +6,7 @@ We have choosen the task where we are to predict the stock market for norwegian 
 For this task we will make an regression algorithm. 
 We will implement LSTM(long-short-term-memory), because after some testing, 
 we found out that it gave us the best RMSE.
+
+
+Comment:
+We were not able to get predictions in the future, only for the days in the dataset. 
